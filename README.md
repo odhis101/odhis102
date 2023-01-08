@@ -1,4 +1,4 @@
-I am a passionate developer, I love challenging myself to solve real world problems with code. I am also ever learning trying to new or better ways to solve familiar challenges. My favourite languages are php and python ... just putting that out there :) 
+I am a passionate developer, I love challenging myself to solve real world problems with code. I am also ever learning trying to new or better ways to solve familiar challenges. My favourite languages are php, javascript and python ... just putting that out there :) 
 
 <!---
 odhis101/odhis101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
